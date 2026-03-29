@@ -10,11 +10,13 @@ Public IP
 
 Steps Performed:
 1.Created Resource Group
+
 2.Created Virtual Machine
 3.Enabled RDP
 4.Installed IIS Web Server
 5.Hosted Web Page
 7.Accessed website using Public IP
 
-Project Screenshots
+Project Screenshots:
+
 VM Overview
