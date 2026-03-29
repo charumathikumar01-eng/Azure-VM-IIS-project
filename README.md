@@ -37,13 +37,9 @@ RDP Connection
 
 ![RDP Connection](rdp-connection.PNG)
 
-Server Manager Dashboard
-
-![Server Manager Dashboard](server manager dashboard.PNG)
-
 Networking
 
-![Networking](Networking.png)
+![Networking](networking.png)
 
 Public IP Website
 
