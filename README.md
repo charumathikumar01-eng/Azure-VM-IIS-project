@@ -45,6 +45,7 @@ Public IP Website
 
 ![Public IP Website](public-ip.PNG)
 
+
 Outcome
 
 Successfully deployed and hosted a web server using Azure Virtual Machine and IIS.
