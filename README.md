@@ -30,3 +30,29 @@ Steps Performed:
 Project Screenshots:
 
 VM Overview
+
+![VM Overview](vm-overview.PNG)
+
+RDP Connection
+
+![RDP Connection](rdp-connection.PNG)
+
+Server Manager Dashboard
+
+![Server Manager Dashboard](server manager dashboard.PNG)
+
+Networking
+
+![Networking](Networking.png)
+
+Public IP Website
+
+![Public IP Website](public-ip.PNG)
+
+Outcome
+
+Successfully deployed and hosted a web server using Azure Virtual Machine and IIS.
+
+Created by
+
+Charumathi
