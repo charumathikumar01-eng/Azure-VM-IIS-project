@@ -1,7 +1,7 @@
 # Azure-VM-IIS-project
 This project demonstrates the creation and configuration of an Azure Virtual Machine and IIS web server
 
-Services Used:
+## Services Used:
 
 Azure Virtual Machine
 
@@ -13,7 +13,7 @@ Networking
 
 Public IP
 
-Steps Performed:
+## Steps Performed:
 
 1.Created Resource Group
 
@@ -27,29 +27,29 @@ Steps Performed:
 
 7.Accessed website using Public IP
 
-Project Screenshots:
+## Project Screenshots:
 
-VM Overview
+## VM Overview
 
 ![VM Overview](vm-overview.PNG)
 
-RDP Connection
+## RDP Connection
 
 ![RDP Connection](rdp-connection.PNG)
 
-Networking
+## Networking
 
 ![Networking](networking.png)
 
-Public IP Website
+## Public IP Website
 
 ![Public IP Website](public-ip.PNG)
 
 
-Outcome
+## Outcome
 
 Successfully deployed and hosted a web server using Azure Virtual Machine and IIS.
 
-Created by
+## Created by
 
 Charumathi
