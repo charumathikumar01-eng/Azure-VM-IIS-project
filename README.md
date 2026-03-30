@@ -50,6 +50,6 @@ Public IP
 
 Successfully deployed and hosted a web server using Azure Virtual Machine and IIS.
 
-## Created by
+## Author
 
-Charumathi
+Charumathi Kumar
